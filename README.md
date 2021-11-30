@@ -1,2 +1,19 @@
-# thero_vue
-Movies Database website. Download free in 720p, 1080p and 3D quality. The fastest downloads at the smallest size.
+# thero
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
